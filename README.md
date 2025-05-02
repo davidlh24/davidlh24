@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="150" alt="David López" style="border-radius: 50%;" />
+  <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="300" alt="David López" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">👋 Soy David López</h1>
+<h1 align="center"> Soy David López</h1>
 
 <!--<p align="center">
   🎨 Desarrollador Web | Fundador de <a href="https://www.digiservicedlh.com" target="_blank">digiservicedlh.com</a>
@@ -56,9 +56,6 @@ Puedes encontrarme en:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
 ---
 
