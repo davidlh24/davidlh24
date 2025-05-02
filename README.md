@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="300" alt="David López" style="border-radius: 50%;" />
+ 
+  <div style="background-color: #007bff; padding: 10px; border-radius: 50%; display: inline-block;">
+    <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="300" alt="David López" style="border-radius: 50%;" />
+  </div>
 </p>
 
 <h1 align="center"> Soy David López</h1>
@@ -17,7 +20,7 @@ Soy desarrollador web con experiencia en HTML, CSS, Tailwind CSS, Bootstrap, Jav
 
 Actualmente, en 2025, estoy finalizando una formación en desarrollo web, trabajando con:
 
-- **HTML**, **CSS**, **Tailwind CSS**
+- **HTML**, **CSS**, **Tailwind CSS**, **Bootstrap**
 - **JavaScript**, **React**
 - **PHP**, **Python**
 - **MySQL**
@@ -48,13 +51,14 @@ He creado mi portafolio personal en:
 
 ---
 
+
 ## 📫 ¿Hablamos?
 
 Puedes encontrarme en:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/david-lopez-herrero/)  
-[![Portfolio](https://img.shields.io/badge/-Portafolio-000?logo=google-chrome&style=flat-square)](https://www.davidlopez.digiservicedlh.com)
+[![Portfolio](https://img.shields.io/badge/-Portafolio-000?logo=google-chrome&style=flat-square)](https://www.davidlopez.digiservicedlh.com)  
+[![Web de Diseño](https://img.shields.io/badge/-digiservicedlh.com-000?logo=google-chrome&style=flat-square)](https://www.digiservicedlh.com)
 
----
 
 
 ---
