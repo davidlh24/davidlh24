@@ -1,9 +1,8 @@
 <p align="center">
- 
-  <div style="background-color: #007bff; padding: 10px; border-radius: 50%; display: inline-block;">
-    <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="300" alt="David López" style="border-radius: 50%;" />
-  </div>
+  <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="300" alt="David López" style="border-radius: 50%; background-color: #000000; padding: 10px;" />
 </p>
+
+
 
 <h1 align="center"> Soy David López</h1>
 
