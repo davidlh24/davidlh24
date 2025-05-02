@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.digiservicedlh.com/mi-foto.jpg" width="150" alt="David López" style="border-radius: 50%;" />
+  <img src="https://github.com/davidlh24/davidlh24/blob/main/Foto_perfil.jpg?raw=true" width="150" alt="David López" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy David López</h1>
